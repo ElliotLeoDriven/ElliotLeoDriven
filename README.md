@@ -1,5 +1,5 @@
-- 👋 Hola, soy @ElliotLeoDriven
-- 👀 Me interesa el desarrollo FrontEnd
-- 🌱 Actualmente estoy aprendiendo VTEX IO
-- 💞️ Estoy buscando colaborar en DRIVEN
-- 📫 Cómo contactarme: 99704532
+- 👋 Hi, I'm @ElliotLeoDriven
+- 👀 I'm interested in FrontEnd development
+- 🌱 I am currently learning VTEX IO
+- 💞️ I am looking to collaborate in DRIVEN
+- 📫 How to contact me: +51997045329
